@@ -1,0 +1,1803 @@
+[
+  {
+    "id_album": 101,
+    "descripcion": "Es el séptimo álbum de estudio de la cantante estadounidense Beyoncé",
+    "fecha_lanzamiento": "2022-07-29",
+    "foto_album": "img/BE01.png",
+    "nombre_album": "RENAISSANCE",
+    "id_artista": 1,
+    "reproducciones": 13000000,
+    "valoracion": 9,
+    "canciones": [
+      {
+        "nombre": "Im That Girl",
+        "duracion": [3,28],
+        "reproducciones": 86746546
+      },
+      {
+        "nombre": "Cozy",
+        "duracion": [3,30],
+        "reproducciones": 869213754
+      },{
+        "nombre": "Alien Superstar",
+        "duracion": [3,35],
+        "reproducciones": 546587531
+      },{
+        "nombre": "Cuff It",
+        "duracion": [3,45],
+        "reproducciones": 548754324
+      },{
+        "nombre": "Energy",
+        "duracion": [1,56],
+        "reproducciones": 51344556
+      },{
+        "nombre": "Break My Soul",
+        "duracion": [4,38],
+        "reproducciones": 121252354
+      },{
+        "nombre": "Church Girl",
+        "duracion": [3,44],
+        "reproducciones": 657485156
+      },{
+        "nombre": "Plastic off the Sofa",
+        "duracion": [4,14],
+        "reproducciones": 878754565
+      },{
+        "nombre": "Virgos Groove",
+        "duracion": [6,18],
+        "reproducciones": 154876478
+      },{
+        "nombre": "Move",
+        "duracion": [3,23],
+        "reproducciones": 454875512
+      },{
+        "nombre": "Heated",
+
+        "duracion": [4,20],
+        "reproducciones": 754546574
+      },{
+        "nombre": "Thique",
+        "duracion": [4,14],
+        "reproducciones": 986545545
+      },{
+        "nombre": "All Up in Your Mind ",
+        "duracion": [2,49],
+        "reproducciones": 835656123
+      },{
+        "nombre": "America Has a Problem",
+        "duracion": [3,18],
+        "reproducciones": 574857854
+      },{
+        "nombre": "Pure/Honey",
+        "duracion": [4,48],
+        "reproducciones": 86787543
+      },{
+        "nombre": "Summer Renaissance",
+        "duracion": [4,34],
+        "reproducciones": 489151879
+      }
+    ]
+
+  },{
+  "id_album": 102,
+  "descripcion": "Es el sexto álbum de estudio de la cantante y compositora estadounidense Beyoncé",
+  "fecha_lanzamiento": "2016-04-23",
+  "foto_album": "img/BE02.png",
+  "nombre": "Lemonade",
+  "id_artista": 1,
+  "reproducciones": 2000000,
+  "valoracion": 9.5,
+  "canciones": [
+    {
+      "nombre": "Pray You Catch Me",
+      "duracion": [3,16],
+      "reproducciones": 545687542
+    },
+    {
+      "nombre": "Hold Up",
+      "duracion": [3,41],
+      "reproducciones": 332325564
+    },{
+      "nombre": "Dont Hurt Yourself",
+      "duracion": [3,54],
+      "reproducciones": 7545445485
+    },{
+      "nombre": "Sorry",
+
+      "duracion": [3,53],
+      "reproducciones": 656851248
+    },{
+      "nombre": "6 Inch",
+      "duracion": [4,20],
+      "reproducciones": 254887886
+    },{
+      "nombre": "Daddy Lessons",
+      "duracion": [4,48],
+      "reproducciones": 323564549
+    },{
+      "nombre": "Love Drought",
+      "duracion": [3,57],
+      "reproducciones": 116887542
+    },{
+      "nombre": "Sandcastles",
+      "duracion": [3,30],
+      "reproducciones": 22587456568
+    },{
+      "nombre": "Forward",
+      "duracion": [1,19],
+      "reproducciones": 855598781
+    },{
+      "nombre": "Freedom",
+      "duracion": [4,50],
+      "reproducciones": 524257526
+    },{
+      "nombre": "All Night",
+      "duracion": [4,20],
+      "reproducciones": 754546574
+    },{
+      "nombre": "Formation",
+      "duracion": [3,26],
+      "reproducciones": 226898741
+    }
+  ]
+
+},{
+  "id_album": 103,
+  "descripcion": "Es el álbum de estudio debut de la cantante estadounidense Beyoncé",
+  "fecha_lanzamiento": "2003-06-22",
+  "foto_album": "img/BE03.png",
+  "nombre": "Dangerously in love",
+  "id_artista": 1,
+  "reproducciones": 35000000,
+  "valoracion": 8.4,
+  "canciones": [
+    {
+      "nombre": "Crazy in Love",
+      "duracion": [3,56],
+      "reproducciones": 54687312
+    },
+    {
+      "nombre": "Naughty Girl",
+      "duracion": [3,29],
+      "reproducciones": 615489867
+    },{
+      "nombre": "Baby Boy",
+      "duracion": [4,15],
+      "reproducciones": 546587531
+    },{
+      "nombre": "Hip Hop Star",
+      "duracion": [3,43],
+      "reproducciones": 548754324
+    },{
+      "nombre": "Be with You",
+      "duracion": [4,20],
+      "reproducciones": 61548932
+    },{
+      "nombre": "Me Myself and I",
+      "duracion": [5,1],
+      "reproducciones": 45251315
+    },{
+      "nombre": "Yes",
+      "duracion": [3,44],
+      "reproducciones": 657485156
+    },{
+      "nombre": "Signs",
+      "duracion": [4,58],
+      "reproducciones": 215874545
+    }
+  ]
+},{
+  "id_album": 104,
+  "descripcion": "Es el segundo álbum de estudio de la cantante estadounidense Beyoncé",
+  "fecha_lanzamiento": "2006-09-04",
+  "foto_album": "img/BE04.png",
+  "nombre": "B Day",
+  "id_artista": 1,
+  "reproducciones": 5000000,
+  "valoracion": 9.5,
+  "canciones": [
+    {
+      "nombre": "Deja Vu",
+      "duracion": [4,12],
+      "reproducciones": 56458121
+    },
+    {
+      "nombre": "Get me Bodied",
+      "duracion": [3,25],
+      "reproducciones": 54548528
+    },{
+      "nombre": "Sugar Mama",
+      "duracion": [3,24],
+      "reproducciones": 985125215
+    },{
+      "nombre": "Upgrade U",
+      "duracion": [4,32],
+      "reproducciones": 988545425
+    },{
+      "nombre": "Ring the Alarm",
+      "duracion": [3,23],
+      "reproducciones": 56587842
+    },{
+      "nombre": "Kitty Kat",
+
+      "duracion": [3,55],
+      "reproducciones": 78754585
+    },{
+      "nombre": "Freakum Dress",
+      "duracion": [3,20],
+      "reproducciones": 65887452
+    },{
+      "nombre": "Green Light",
+      "duracion": [3,29],
+      "reproducciones": 366448421
+    },{
+      "nombre": "Irreplaceable",
+      "duracion": [3,47],
+      "reproducciones": 56598425
+    },{
+      "nombre": "Resentment",
+      "duracion": [4,40],
+      "reproducciones": 66554875
+    }
+  ]
+
+},{
+  "id_album": 201,
+  "descripcion": "Es el álbum de estudio debut de la cantante española Aitana",
+  "fecha_lanzamiento": "2019-06-07",
+  "foto_album": "img/A001.png",
+  "nombre": "Spoiler",
+  "id_artista": 2,
+  "reproducciones": 5346786,
+  "valoracion": 9.5,
+  "canciones": [
+    {
+      "nombre": "Nada sale mal",
+      "duracion": [3,10],
+      "reproducciones": 154747655
+    },
+    {
+      "nombre": "Teléfono",
+      "duracion": [2,43],
+      "reproducciones": 48788548
+    },{
+      "nombre": "Vas a quedarte",
+      "duracion": [3,46],
+      "reproducciones": 658485182
+    },{
+      "nombre": "Las Vegas",
+      "duracion": [3,20],
+      "reproducciones": 25588754
+    },{
+      "nombre": "Me quedo",
+      "duracion": [1,56],
+      "reproducciones": 84521685
+    }
+  ]
+
+},{
+  "id_album": 202,
+  "descripcion": "Es el segundo álbum de estudio de la cantante española Aitana",
+  "fecha_lanzamiento": "2020-12-11",
+  "foto_album": "img/A002.png",
+  "nombre": "11 razones",
+  "id_artista": 2,
+  "reproducciones": 651032498,
+  "valoracion": 10,
+  "canciones": [
+    {
+      "nombre": "No te has ido y ya te extraño",
+      "duracion": [3,11],
+      "reproducciones": 95454875
+    },
+    {
+      "nombre": "Adios",
+      "duracion": [1,40],
+      "reproducciones": 9878524
+    },{
+      "nombre": "x por",
+      "duracion": [2,21],
+      "reproducciones": 2598756
+    },{
+      "nombre": "Si no vas a volver",
+      "duracion": [2,36],
+      "reproducciones": 2297844
+    },{
+      "nombre": "Estupidez",
+      "duracion": [2,34],
+      "reproducciones": 658874526
+    },{
+      "nombre": "-Menos",
+      "duracion": [3,18],
+      "reproducciones": 658874526
+    },{
+      "nombre": "% Divido",
+      "duracion": [3,16],
+      "reproducciones": 658874526
+    },{
+      "nombre": "Cuando te fuiste",
+      "duracion": [2,47],
+      "reproducciones": 658874526
+    }
+  ]
+},{
+  "id_album": 301,
+  "descripcion": "Reflexión es el EP debut de la cantante española Ana Guerra, lanzado el 25 de enero de 2019 a través del sello discográfico Universal Music Spain",
+  "fecha_lanzamiento": "2020-01-25",
+  "foto_album": "img/ANG01.png",
+  "nombre": "Reflexion",
+  "id_artista": 3,
+  "reproducciones": 189156384,
+  "valoracion": 7,
+  "canciones": [
+    {
+      "nombre": "Bajito",
+      "duracion": [2,57],
+      "reproducciones": 154747655
+    },
+    {
+      "nombre": "Con una mirada",
+      "duracion": [3,19],
+      "reproducciones": 54874545
+    },{
+      "nombre": "Despierta",
+      "duracion": [3,24],
+      "reproducciones": 999845215
+    },{
+      "nombre": "El Remedio",
+      "duracion": [3,10],
+      "reproducciones": 87845125
+    },{
+      "nombre": "Olvidame",
+      "duracion": [3,18],
+      "reproducciones": 454872122
+    }
+  ]
+
+},{
+  "id_album": 401,
+  "descripcion": "Es el sexto álbum de estudio de la cantante estadounidense Ariana Grande",
+  "fecha_lanzamiento": "2020-08-30",
+  "foto_album": "img/ARG01.png",
+  "nombre": "Positions",
+  "id_artista": 4,
+  "reproducciones": 51516981,
+  "valoracion": 8.3,
+  "canciones": [
+    {
+      "nombre": "Shut Up",
+      "duracion": [2,37],
+      "reproducciones": 19531254
+    },
+    {
+      "nombre": "Motive",
+      "duracion": [2,47],
+      "reproducciones": 251646518
+    },{
+      "nombre": "Off the Table",
+      "duracion": [3,59],
+      "reproducciones": 658485182
+    },{
+      "nombre": "Safety Net",
+      "duracion": [3,28],
+      "reproducciones": 151661851
+    },{
+      "nombre": "Nasty",
+      "duracion": [3,20],
+      "reproducciones": 5166123321
+    },{
+      "nombre": "Love Language",
+      "duracion": [2,59],
+      "reproducciones": 5615318651
+    },{
+      "nombre": "Obvious",
+      "duracion": [2,28],
+      "reproducciones": 66164516
+    }
+  ]
+
+},{
+  "id_album": 402,
+  "descripcion": "Es el quinto álbum de estudio de la cantante y actriz estadounidense Ariana Grande",
+  "fecha_lanzamiento": "2019-02-08",
+  "foto_album": "img/ARG02.png",
+  "nombre": "Thank U Next",
+  "id_artista": 4,
+  "reproducciones": 1616155151,
+  "valoracion": 9,
+  "canciones": [
+    {
+      "nombre": "Imagine",
+      "duracion": [3,10],
+      "reproducciones": 154747655
+    },
+    {
+      "nombre": "Teléfono",
+      "duracion": [3,32],
+      "reproducciones": 3234545
+    },{
+      "nombre": "Needy",
+      "duracion": [2,51],
+      "reproducciones": 65888951
+    },{
+      "nombre": "NASA",
+      "duracion": [3,20],
+      "reproducciones": 11145825
+    },{
+      "nombre": "Bloodline",
+      "duracion": [3,36],
+      "reproducciones": 85454875
+    },{
+      "nombre": "Fake Smile",
+      "duracion": [3,28],
+      "reproducciones": 44452238
+    },{
+      "nombre": "Bad Idea",
+      "duracion": [4,27],
+      "reproducciones": 65787542
+    },{
+      "nombre": "Make Up",
+      "duracion": [2,21],
+      "reproducciones": 47878512
+    },{
+      "nombre": "Ghostin",
+      "duracion": [4,31],
+      "reproducciones": 44485222
+    }
+  ]
+
+},{
+  "id_album": 403,
+  "descripcion": "Es el cuarto trabajo discográfico de la cantante estadounidense Ariana Grande",
+  "fecha_lanzamiento": "2018-08-17",
+  "foto_album": "img/ARG03.png",
+  "nombre": "Sweetener",
+  "id_artista": 4,
+  "reproducciones": 24337341834,
+  "valoracion": 9.5,
+  "canciones": [
+    {
+      "nombre": "Raindrops",
+      "duracion": [1,37],
+      "reproducciones": 88454285
+    },
+    {
+      "nombre": "Blazed",
+      "duracion": [3,16],
+      "reproducciones": 54587452
+    },{
+      "nombre": "The Light Is Coming",
+      "duracion": [3,48],
+      "reproducciones": 75428524
+    },{
+      "nombre": "R.E.M",
+      "duracion": [4,10],
+      "reproducciones": 66547824
+    },{
+      "nombre": "God Is a Woman",
+      "duracion": [3,17],
+      "reproducciones": 99854524
+    },{
+      "nombre": "Sweetener",
+      "duracion": [3,28],
+      "reproducciones": 65454754
+    },{
+      "nombre": "Successful",
+      "duracion": [3,47],
+      "reproducciones": 74859632
+    },{
+      "nombre": "Everytime",
+      "duracion": [2,52],
+      "reproducciones": 32165487
+    }
+  ]
+
+},{
+  "id_album": 404,
+  "descripcion": "Es el tercer álbum de estudio de la cantante estadounidense Ariana Grande",
+  "fecha_lanzamiento": "2016-05-20",
+  "foto_album": "img/A001.png",
+  "nombre": "Dangerous Woman",
+  "id_artista": 4,
+  "reproducciones": 6843563135,
+  "valoracion": 9.3,
+  "canciones": [
+    {
+      "nombre": "Moonlight",
+      "duracion": [3,22],
+      "reproducciones": 447875426
+    },
+    {
+      "nombre": "Dangerous Woman",
+      "duracion": [3,56],
+      "reproducciones": 55889947
+    },{
+      "nombre": "Be Alright",
+      "duracion": [2,57],
+      "reproducciones": 49851374
+    },{
+      "nombre": "Into You",
+
+      "duracion": [4,14],
+      "reproducciones": 65978451
+    },{
+      "nombre": "Side to Side",
+      "duracion": [1,56],
+      "reproducciones": 84521685
+    }
+  ]
+
+},{
+  "id_album": 501,
+  "descripcion": "Es el quinto álbum de estudio del cantautor español Pablo Alborán.",
+  "fecha_lanzamiento": "2020-12-11",
+  "foto_album": "img/PA01.png",
+  "nombre": "Vertigo",
+  "id_artista": 5,
+  "reproducciones": 10351320,
+  "valoracion": 6,
+  "canciones": [
+    {
+      "nombre": "Si Hubiera Querido",
+      "duracion": [3,41],
+      "reproducciones": 5131653
+    },
+    {
+      "nombre": "Corazón Descalzo",
+      "duracion": [4,14],
+      "reproducciones": 56510368
+    },{
+      "nombre": "De Carne y Hueso",
+      "duracion": [2,47],
+      "reproducciones": 51648312
+    },{
+      "nombre": "La Fiesta",
+      "duracion": [3,32],
+      "reproducciones": 48632185
+    },{
+      "nombre": "Hablemos de Amor",
+      "duracion": [3,29],
+      "reproducciones": 321465648
+    }
+  ]
+
+},{
+  "id_album": 502,
+  "descripcion": "Es el cuarto álbum de estudio del cantautor español Pablo Alborán",
+  "fecha_lanzamiento": "2020-12-11",
+  "foto_album": "img/PA02.png",
+  "nombre": "Prometo",
+  "id_artista": 5,
+  "reproducciones": 32159423,
+  "valoracion": 6,
+  "canciones": [
+    {
+      "nombre": "Saturno",
+      "duracion": [4,14],
+      "reproducciones": 5383500
+    },
+    {
+      "nombre": "Prometo",
+      "duracion": [5,17],
+      "reproducciones": 78964531
+    },{
+      "nombre": "Cuerda al corazón",
+      "duracion": [3,18],
+      "reproducciones": 478156230
+    },{
+      "nombre": "Idiota",
+      "duracion": [3,25],
+      "reproducciones": 87964531
+    },{
+      "nombre": "Curo tus labios",
+      "duracion": [4,14],
+      "reproducciones": 86754211
+    }
+  ]
+
+},{
+  "id_album": 503,
+  "descripcion": "Es el tercer álbum de estudio del cantautor español Pablo Alborán",
+  "fecha_lanzamiento": "2014-11-11",
+  "foto_album": "img/PA03.png",
+  "nombre": "Terral",
+  "id_artista": 5,
+  "reproducciones": 48651327,
+  "valoracion": 7.2,
+  "canciones": [
+    {
+      "nombre": "Por fin",
+      "duracion": [4,0],
+      "reproducciones": 75395148
+    },
+    {
+      "nombre": "Ecos",
+      "duracion": [4,22],
+      "reproducciones": 102456987
+    },{
+      "nombre": "Pasos de cero",
+      "duracion": [3,57],
+      "reproducciones": 89465132
+    },{
+      "nombre": "Volvería",
+      "duracion": [4,22],
+      "reproducciones": 74895623
+    },{
+      "nombre": "Quimera",
+      "duracion": [4,20],
+      "reproducciones": 7896453
+    }
+  ]
+
+},{
+  "id_album": 601,
+  "descripcion": "Es el tercer álbum de estudio grabado por el cantante español David Bisbal.",
+  "fecha_lanzamiento": "2003-10-03",
+  "foto_album": "img/DB01.png",
+  "nombre": "Premonición",
+  "id_artista": 6,
+  "reproducciones": 10213132,
+  "valoracion": 7,
+  "canciones": [
+    {
+      "nombre": "Quién me iba a decir",
+      "duracion": [3,38],
+      "reproducciones": 78946513
+    },
+    {
+      "nombre": "Como la primera vez",
+      "duracion": [4,0],
+      "reproducciones": 97864532
+    },{
+      "nombre": "Soldado de papel",
+      "duracion": [4,10],
+      "reproducciones": 8451203
+    },{
+      "nombre": "Premonición",
+      "duracion": [4,16],
+      "reproducciones": 1234568
+    },{
+      "nombre": "Amanecer sin ti",
+      "duracion": [3,58],
+      "reproducciones": 2468531
+    }
+  ]
+
+},{
+  "id_album": 602,
+  "descripcion": "Es el cuarto álbum de estudio grabado por el cantante español David Bisbal.",
+  "fecha_lanzamiento": "2009-10-20",
+  "foto_album": "img/DB02.png",
+  "nombre": "Sin mirar atrás",
+  "id_artista": 6,
+  "reproducciones": 9846513,
+  "valoracion": 10,
+  "canciones": [
+    {
+      "nombre": "Esclavo de sus besos",
+      "duracion": [3,59],
+      "reproducciones": 49816523
+    },
+    {
+      "nombre": "Si falta el aire",
+      "duracion": [3,14],
+      "reproducciones": 9864532
+    },{
+      "nombre": "Al Andalus",
+      "duracion": [3,58],
+      "reproducciones": 7841562
+    },{
+      "nombre": "El ruido",
+      "duracion": [3,58],
+      "reproducciones": 4568135
+    },{
+      "nombre": "Sufrirás",
+      "duracion": [3,26],
+      "reproducciones": 48651323
+    }
+  ]
+
+},{
+  "id_album": 603,
+  "descripcion": "Es el sexto álbum de estudio del cantante español David Bisbal.",
+  "fecha_lanzamiento": "2016-12-02",
+  "foto_album": "img/DB03.png",
+  "nombre": "Hijos del mar",
+  "id_artista": 6,
+  "reproducciones": 748165,
+  "valoracion": 6,
+  "canciones": [
+    {
+      "nombre": "Fiebre",
+      "duracion": [3,17],
+      "reproducciones": 1596023
+    },
+    {
+      "nombre": "Antes que no",
+      "duracion": [3,46],
+      "reproducciones": 9486513
+    },{
+      "nombre": "Hijos del mar",
+      "duracion": [3,36],
+      "reproducciones": 4234123
+    },{
+      "nombre": "Yo te enseñaré a olvidar",
+      "duracion": [4,36],
+      "reproducciones": 78651312
+    },{
+      "nombre": "Una palabra",
+      "duracion": [3,12],
+      "reproducciones": 12365478
+    }
+  ]
+
+},{
+  "id_album": 701,
+  "descripcion": "Es el álbum debut de la cantante barbadense Rihanna, publicado por primera vez el 29 de agosto de 2005 en formato digital, por la compañía discográfica Def Jam Recordings. Entre agosto y octubre del mismo año, se puso a la venta en CD en varios territorios del mundo.",
+  "fecha_lanzamiento": "2005-08-29",
+  "foto_album": "img/RH01.png",
+  "nombre": "Music of the Sun",
+  "id_artista": 7,
+  "reproducciones": 4869531,
+  "valoracion": 8,
+  "canciones": [
+    {
+      "nombre": "Pon de Replay",
+      "duracion": [4,6],
+      "reproducciones": 4651321
+    },
+    {
+      "nombre": "Here I Go Again",
+      "duracion": [4,11],
+      "reproducciones": 1211655
+    },
+    {
+      "nombre": "If Its Lovin That You Want",
+      "duracion": [3,28],
+      "reproducciones": 48165132
+    },
+    {
+      "nombre": "You Dont Love Me No No No",
+      "duracion": [4,20],
+      "reproducciones": 411313215
+    },
+    {
+      "nombre": "That La La La",
+      "duracion": [3,45],
+      "reproducciones": 262123215
+    },
+    {
+      "nombre": "The Last Time",
+      "duracion": [4,53],
+      "reproducciones": 15032556
+    },
+    {
+      "nombre": "Willing to Wait",
+      "duracion": [4,37],
+      "reproducciones": 41653132
+    },
+    {
+      "nombre": "Music of the Sun",
+      "duracion": [3,56],
+      "reproducciones": 513515318
+    },
+    {
+      "nombre": "Let Me",
+      "duracion": [3,56],
+      "reproducciones": 412132156
+    },
+    {
+      "nombre": "Rush",
+      "duracion": [3,10],
+      "reproducciones": 4815323115
+    },
+    {
+      "nombre": "Theres a Thug in My Life",
+      "duracion": [3,21],
+      "reproducciones": 13253215489
+    },
+    {
+      "nombre": "Now I Know",
+      "duracion": [5,11],
+      "reproducciones": 13132155158
+    },
+    {
+      "nombre": "Pon de Replay Remix",
+      "duracion": [3,37],
+      "reproducciones": 2301321652
+    }
+  ]
+
+
+},{
+  "id_album": 702,
+  "descripcion": "Es el séptimo álbum de estudio de la cantante y compositora barbadense Rihanna,  ",
+  "fecha_lanzamiento": "2012-11-12",
+  "foto_album": "img/RH02.png",
+  "nombre": "Unapologetic",
+  "id_artista": 7,
+  "reproducciones": 1340454300,
+  "valoracion": 8,
+  "canciones": [
+    {
+      "nombre": "Phresh Out The Runway",
+      "duracion": [3,42],
+      "reproducciones": 12383545
+    },
+    {
+      "nombre": "Diamonds",
+      "duracion": [3,45],
+      "reproducciones": 731287312
+    },
+    {
+      "nombre": "Numb",
+      "duracion": [3,25],
+      "reproducciones": 783135787
+    },
+    {
+      "nombre": "Pour It Up",
+      "duracion": [2,41],
+      "reproducciones": 486453120
+    },
+    {
+      "nombre": "Loveeeeeee Song",
+      "duracion": [4,16],
+      "reproducciones": 876348530
+    },
+    {
+      "nombre": "Jump",
+      "duracion": [4,24],
+      "reproducciones": 435451272
+    },
+    {
+      "nombre": "Right Now",
+      "duracion": [3,0],
+      "reproducciones": 2131235345
+    },
+    {
+      "nombre": "What Now",
+      "duracion": [4,13],
+      "reproducciones": 244323522
+    },
+    {
+      "nombre": "Stay",
+      "duracion": [4,0],
+      "reproducciones": 4354635413
+    },
+    {
+      "nombre": "Nobodys Business",
+      "duracion": [3,36],
+      "reproducciones": 534344235
+    },
+    {
+      "nombre": "Love Without Tragedy/ Mother Mary",
+      "duracion": [6,58],
+      "reproducciones": 45321358
+    },
+    {
+      "nombre": "Get It Over With",
+      "duracion": [3,31],
+      "reproducciones": 3541123474
+    },
+    {
+      "nombre": "No Love Allowed",
+      "duracion": [4,9],
+      "reproducciones": 345312354
+    },
+    {
+      "nombre": "Lost in Paradise",
+      "duracion": [3,35],
+      "reproducciones": 354869214
+    }
+  ]
+
+
+},{
+  "id_album": 703,
+  "descripcion": "Es el octavo álbum de estudio de la cantante barbadense Rihanna, lanzado el 28 de enero de 2016.",
+  "fecha_lanzamiento": "2016-01-28",
+  "foto_album": "img/RH03.png",
+  "nombre": "Anti",
+  "id_artista": 7,
+  "reproducciones": 12354963,
+  "valoracion": 7,
+  "canciones": [
+    {
+      "nombre": "Consideration",
+      "duracion": [2,41],
+      "reproducciones": 1050455529
+    },
+    {
+      "nombre": "James Joint",
+      "duracion": [1,13],
+      "reproducciones": 1050127659
+    },
+    {
+      "nombre": "Kiss It Better",
+      "duracion": [4,13],
+      "reproducciones": 1023455429
+    },
+    {
+      "nombre": "Work",
+      "duracion": [3,39],
+      "reproducciones": 5441584412
+    },
+    {
+      "nombre": "Desperado",
+      "duracion": [3,16],
+      "reproducciones": 453123536
+    },
+    {
+      "nombre": "Woo",
+      "duracion": [3,55],
+      "reproducciones": 434583432
+    },
+    {
+      "nombre": "Needed Me",
+      "duracion": [3,14],
+      "reproducciones": 12123480
+    },
+    {
+      "nombre": "Yeah I Said It",
+      "duracion": [2,13],
+      "reproducciones": 12327800
+    },
+    {
+      "nombre": "Same Ol Mistakes",
+      "duracion": [6,37],
+      "reproducciones": 835437863
+    },
+    {
+      "nombre": "Never Ending",
+      "duracion": [3,22],
+      "reproducciones": 7841216541
+    },
+    {
+      "nombre": "Love on the Brain",
+      "duracion": [3,44],
+      "reproducciones": 16531248415
+    },
+    {
+      "nombre": "Higher",
+      "duracion": [2,0],
+      "reproducciones": 23213165548
+    },
+    {
+      "nombre": "Close to You",
+
+      "duracion": [3,43],
+      "reproducciones": 34834378342
+    }
+  ]
+
+
+},{
+  "id_album": 801,
+  "descripcion": "Es el primer álbum de estudio de la cantautora británica Adele. ",
+  "fecha_lanzamiento":"2008-01-28",
+  "foto_album": "img/AD01.png",
+  "nombre": "19",
+  "id_artista": 8,
+  "reproducciones": 13045000,
+  "valoracion": 8,
+  "canciones": [
+    {
+      "nombre": "Daydreamer",
+      "duracion": [3,41],
+      "reproducciones": 65583658
+    },
+    {
+      "nombre": "Best for Last",
+      "duracion": [4,19],
+      "reproducciones": 354683125
+    },
+    {
+      "nombre": "Chasing Pavements",
+      "duracion": [3,31],
+      "reproducciones": 42313578
+    },
+    {
+      "nombre": "Cold Shoulder",
+      "duracion": [3,12],
+      "reproducciones": 4354127532
+    },
+    {
+      "nombre": "Crazy for You",
+      "duracion": [3,28],
+      "reproducciones": 1311445237
+    },
+    {
+      "nombre": "Melt My Heart to Stone",
+      "duracion": [3,24],
+      "reproducciones": 122343215
+    },
+    {
+      "nombre": "First Love",
+      "duracion": [3,10],
+      "reproducciones": 10557929
+    },
+    {
+      "nombre": "Right as Rain",
+      "duracion": [3,17],
+      "reproducciones": 3453123788
+    },
+    {
+      "nombre": "Make You Feel My Love",
+      "duracion": [3,32],
+      "reproducciones": 344534215
+    },
+    {
+      "nombre": "My Same",
+      "duracion": [3,16],
+      "reproducciones": 863438423
+    },
+    {
+      "nombre": "Tired",
+      "duracion": [4,19],
+      "reproducciones": 7631238753
+    },
+    {
+      "nombre": "Hometown Glory",
+      "duracion": [4,31],
+      "reproducciones": 4864237886
+    }
+  ]
+
+
+},{
+  "id_album": 802,
+  "descripcion": "Es el segundo álbum de estudio de la cantautora británica Adele. ",
+  "fecha_lanzamiento": "2011-01-24",
+  "foto_album": "img/AD02.png",
+  "nombre": "21",
+  "id_artista": 8,
+  "reproducciones": 1305564000,
+  "valoracion": 8,
+  "canciones": [
+    {
+      "nombre": "Rolling in the Deep",
+      "duracion": [3,41],
+      "reproducciones": 876453120
+    },
+    {
+      "nombre": "Rumour Has It",
+      "duracion": [4,19],
+      "reproducciones": 87645120
+    },
+    {
+      "nombre": "Turning Tables",
+      "duracion": [3,31],
+      "reproducciones": 9683521
+    },
+    {
+      "nombre": "Dont You Remember",
+      "duracion": [3,12],
+      "reproducciones": 96835421
+    },
+    {
+      "nombre": "Set Fire to the Rain",
+      "duracion": [3,28],
+      "reproducciones": 587453684
+    },
+    {
+      "nombre": "He Wont Go",
+      "duracion": [3,24],
+      "reproducciones": 321341354
+    },
+    {
+      "nombre": "Take It All",
+      "duracion": [3,10],
+      "reproducciones": 542131235
+    },
+    {
+      "nombre": "Ill Be Waiting",
+      "duracion": [3,17],
+      "reproducciones": 634531357
+    },
+    {
+      "nombre": "One and Only",
+      "duracion": [3,32],
+      "reproducciones": 354312384
+    },
+    {
+      "nombre": "Lovesong",
+      "duracion": [3,16],
+      "reproducciones": 35131387
+    },
+    {
+      "nombre": "Someone like You",
+      "duracion": [4,19],
+      "reproducciones": 543123478
+    }
+
+  ]
+
+},{
+  "id_album": 803,
+  "descripcion": "Es el tercer álbum de estudio de la cantautora británica Adele ",
+  "fecha_lanzamiento": "1-20-5--20",
+  "foto_album": "img/AD03.png",
+  "nombre": "25",
+  "id_artista": 8,
+  "reproducciones": 13056000,
+  "valoracion": 9,
+  "canciones": [
+    {
+      "nombre": "Hello",
+      "duracion": [4,55],
+      "reproducciones": 43123543
+    },
+    {
+      "nombre": "Send My Love To Your New Lover",
+      "duracion": [3,43],
+      "reproducciones": 543213512
+    },
+    {
+      "nombre": "I Miss You",
+      "duracion": [5,48],
+      "reproducciones": 543743513
+    },
+    {
+      "nombre": "When We Were Young",
+      "duracion": [4,50],
+      "reproducciones": 5431235478
+    },
+    {
+      "nombre": "Remedy",
+      "duracion": [4,5],
+      "reproducciones": 46864237
+    },
+    {
+      "nombre": "Water Under the Bridge",
+      "duracion": [4,0],
+      "reproducciones": 13121645
+    },
+    {
+      "nombre": "River Lea",
+      "duracion": [3,45],
+      "reproducciones": 21531235
+    },
+    {
+      "nombre": "Love in the Dark",
+      "duracion": [4,46],
+      "reproducciones": 35123487
+    },
+    {
+      "nombre": "Million Years Ago",
+      "duracion": [3,47],
+      "reproducciones": 255535342
+    },
+    {
+      "nombre": "All I Ask",
+      "duracion": [4,30],
+      "reproducciones": 785432135
+    },
+    {
+      "nombre": "Sweetest Devotion",
+      "duracion": [4,11],
+      "reproducciones": 53123425
+    }
+
+  ]
+
+
+},{
+  "id_album": 804,
+  "descripcion": "Es el tercer álbum de estudio de la cantautora británica Adele ",
+  "fecha_lanzamiento": "2021-11-19",
+  "foto_album": "img/AD04.png",
+  "nombre": "30",
+  "id_artista": 8,
+  "reproducciones": 13345000,
+  "valoracion": 9,
+  "canciones": [
+    {
+      "nombre": "Strangers by Nature",
+      "duracion": [3,2],
+      "reproducciones": 626206532
+    },
+    {
+      "nombre": "Easy on Me",
+      "duracion": [3,44],
+      "reproducciones": 10000000
+    },
+    {
+      "nombre": "My Little Love",
+      "duracion": [6,29],
+      "reproducciones": 25000025
+    },
+    {
+      "nombre": "Cry Your Heart Out",
+      "duracion": [4,15],
+      "reproducciones": 184153156
+    },
+    {
+      "nombre": "Oh My God",
+      "duracion": [3,45],
+      "reproducciones": 485158215
+    },
+    {
+      "nombre": "Can I Get It",
+      "duracion": [3,30],
+      "reproducciones": 1633458314
+    },
+    {
+      "nombre": "I Drink Wine",
+      "duracion": [6,16],
+      "reproducciones": 1435313517
+    },
+    {
+      "nombre": "All Night Parking",
+      "duracion": [2,41],
+      "reproducciones": 12500000
+    },
+    {
+      "nombre": "Woman like Me",
+      "duracion": [5,0],
+      "reproducciones": 3000000
+    },
+    {
+      "nombre": "Hold On",
+      "duracion": [6,6],
+      "reproducciones": 31238512
+    },
+    {
+      "nombre": "To Be Loved",
+      "duracion": [6,43],
+      "reproducciones": 1020000
+    },
+    {
+      "nombre": "Love Is a Game",
+      "duracion": [6,43],
+      "reproducciones": 348531234
+    },
+    {
+      "nombre": "Wild Wild West",
+      "duracion": [3,46],
+      "reproducciones": 134863151
+    },
+    {
+      "nombre": "Cant Be Together",
+      "duracion": [4,17],
+      "reproducciones": 421345137
+    },
+    {
+      "nombre": "Easy on Me",
+      "duracion": [3,44],
+      "reproducciones": 34531153125
+    }
+
+  ]
+
+
+},{
+  "id_album": 901,
+  "descripcion": "Es el primer album de la banda Haim ",
+  "fecha_lanzamiento": "2013-09-27",
+  "foto_album": "img/HA01.png",
+  "nombre": "Days Are Gone",
+  "id_artista": 9,
+  "reproducciones": 1340321300,
+  "valoracion": 9,
+  "canciones": [
+    {
+      "nombre": "Falling",
+      "duracion": [4,17],
+      "reproducciones": 835289563
+    },
+    {
+      "nombre": "Forever",
+      "duracion": [4,5],
+      "reproducciones": 3544531238
+    },
+    {
+      "nombre": "The Wire",
+      "duracion": [4,5],
+      "reproducciones": 13813153
+    },
+    {
+      "nombre": "If I Could Change Your Mind",
+      "duracion": [3,50],
+      "reproducciones": 102343392
+    },
+    {
+      "nombre":"Honey & I",
+      "duracion": [4,11],
+      "reproducciones": 105045734
+    },
+    {
+      "nombre":"Dont Save Me",
+      "duracion": [3,51],
+      "reproducciones": 10504579
+    },
+    {
+      "nombre":"My Song 5",
+      "duracion": [3,33],
+      "reproducciones": 1050457
+    },
+    {
+      "nombre":"Go Slow",
+
+      "duracion": [4,17],
+      "reproducciones": 4579291050
+    },
+    {
+      "nombre":"Let Me Go",
+
+      "duracion": [4,8],
+      "reproducciones": 5557910429
+    },
+    {
+      "nombre":"Running If You Call My Name",
+
+      "duracion": [4,4],
+      "reproducciones": 5557104929
+    },
+    {
+      "nombre":"Send Me Down",
+
+      "duracion": [4,18],
+      "reproducciones": 4321043929
+    },
+    {
+      "nombre":"Edge",
+
+      "duracion": [3,39],
+      "reproducciones": 3295510434
+    },
+    {
+      "nombre":"Falling",
+
+      "duracion": [5,36],
+      "reproducciones": 4343295510
+    },
+    {
+      "nombre":"Go Slow",
+
+      "duracion": [2,45],
+      "reproducciones": 2949104343
+    }
+
+  ]
+
+
+},{
+  "id_album": 902,
+  "descripcion": "Es el segundo album de la banda Haim ",
+  "fecha_lanzamiento": "2017-07-07",
+  "foto_album": "img/HA02.png",
+  "nombre": "Something to Tell You",
+  "id_artista": 9,
+  "reproducciones": 1340321120,
+  "valoracion": 9,
+  "canciones": [
+    {
+      "nombre":"Want You Back",
+
+      "duracion": [3,52],
+      "reproducciones": 5342107929
+    },
+    {
+      "nombre": "Nothings Wrong",
+
+      "duracion": [3,9],
+      "reproducciones": 122310532
+    },
+    {
+      "nombre": "Ready for You",
+
+      "duracion": [3,45],
+      "reproducciones": 3431023929
+    },
+    {
+      "nombre": "Something to Tell You",
+
+      "duracion": [4,13],
+      "reproducciones": 1023433929
+    },
+    {
+      "nombre":"You Never Knew",
+
+      "duracion": [4,29],
+      "reproducciones": 5045107341
+    },
+    {
+      "nombre": "Kept Me Crying",
+
+      "duracion": [3,55],
+      "reproducciones": 5792105049
+    },
+    {
+      "nombre":"Found It in Silence",
+
+      "duracion": [4,23],
+      "reproducciones": 4510507929
+    },
+    {
+      "nombre":"Walking Away",
+
+      "duracion": [3,56],
+      "reproducciones": 5791050429
+    },
+    {
+      "nombre":"Right Now",
+
+      "duracion": [4,15],
+      "reproducciones": 5710455929
+    },
+    {
+      "nombre":"Night So Long",
+
+      "duracion": [3,4],
+      "reproducciones": 5579104529
+    },
+    {
+      "nombre":"Waters Running Dry",
+
+      "duracion": [3,45],
+      "reproducciones": 4343291029
+    }
+  ]
+
+
+},{
+  "id_album": 903,
+  "descripcion": "Es el tercer album de la banda Haim ",
+  "fecha_lanzamiento": "2020-06-26",
+  "foto_album": "img/HA03.png",
+  "nombre": "Women in Music Pt. III",
+  "id_artista": 9,
+  "reproducciones": 134421120,
+  "valoracion": 8,
+  "canciones": [
+    {
+      "nombre":"Los Angeles",
+
+      "duracion": [3,20],
+      "reproducciones": 1053427929
+    },
+    {
+      "nombre": "The Steps",
+
+      "duracion": [4,7],
+      "reproducciones": 1050122332
+    },
+    {
+      "nombre": "I Know Alone",
+
+      "duracion": [3,46],
+      "reproducciones": 1023433929
+    },
+    {
+      "nombre":"Up from a Dream",
+      "duracion": [3,17],
+      "reproducciones": 3392102349
+    },
+    {
+      "nombre":"Gasoline",
+      "duracion": [3,13],
+      "reproducciones": 1050457341
+    },
+    {
+      "nombre": "3 AM",
+      "duracion": [3,10],
+      "reproducciones": 3545467845
+    },
+    {
+      "nombre":"Dont Wanna",
+      "duracion": [3,21],
+      "reproducciones": 745105079
+    },
+    {
+      "nombre":"Another Try",
+      "duracion": [3,21],
+      "reproducciones": 1050457929
+    },
+    {
+      "nombre":"Leaning on You",
+
+      "duracion": [2,51],
+      "reproducciones": 10451317929
+    },
+    {
+      "nombre":"Ive Been Down",
+
+      "duracion": [2,6],
+      "reproducciones": 10436457929
+    },
+    {
+      "nombre":"Man from the Magazine",
+
+      "duracion": [2,30],
+      "reproducciones": 10434329
+    },
+
+    {
+      "nombre":"All That Ever Mattered",
+
+      "duracion": [3,13],
+      "reproducciones": 1042121929
+    },
+    {
+      "nombre":"FUBT",
+
+      "duracion": [3,10],
+      "reproducciones": 1043231929
+    },
+    {
+      "nombre":"Now Im in It",
+
+      "duracion": [3,25],
+      "reproducciones": 135153135
+    },
+    {
+      "nombre":"Hallelujah",
+
+      "duracion": [3,45],
+      "reproducciones": 434131929
+    },
+    {
+      "nombre":"Summer Girl",
+
+      "duracion": [3,45],
+      "reproducciones": 1043432929
+    }
+  ]
+},{
+  "id_album": 1001,
+  "descripcion": "Con este album debutó la artista de fama mundial Taylor Swift, escrito cuando tenia 16 años y publicado con 18 años, es un álbum que sorprendió a todo el mundo, obteniendo varios puestos en el top 100 del billboard mundial por una cantidad abrumadora de tiempo",
+  "fecha_lanzamiento": "2006-12-24",
+  "foto_album": "img/TS01.png",
+  "nombre": "Taylor Swift",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "Tim McGraw",
+      "duracion": [3,52],
+      "reproducciones": 78967983
+    },{
+      "nombre": "Picture To Burn",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "Teardrops On My Guitar",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "Shouldve said no",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Our song",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1002,
+  "descripcion": "El segundo album de la artista, ganador de varios premios grammys, entre ellos el de mejor videoclio del año por el single lead You Belong With Me, que causó la famosa polémica con Kanye West",
+  "fecha_lanzamiento": "2008-11-11",
+  "foto_album": "img/TS02.png",
+  "nombre": "Fearless",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "The Way I loved you",
+      "duracion": [3,52],
+      "reproducciones": 78967983
+    },{
+      "nombre": "You belong with me",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "Forever & Always",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "Fearless",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1003,
+  "descripcion": "El tercer album de estudio de la artista compuesto completamente ella despues de recibir critcas y rumores que decían que Taylor Swift no podia escribir sus propias canciones es un album muy variado que toca diversos temas y varios estilos musicales",
+  "fecha_lanzamiento": "2010-10-25",
+  "foto_album": "img/TS03.png",
+  "nombre": "Speak Now",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "Dear John",
+      "duracion": [3,52],
+      "reproducciones": 78967983
+    },{
+      "nombre": "Back to December",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "Speak Now",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "Haunted",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Better than Revenge",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Mine",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Long Live",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1004,
+  "descripcion": "Regrabación del cuarto album de estudio de la artista ahora con incluso mas canciones que el album original es un clasico del pop con un nucleo country influenciado por el rock trata sobre diferentes dinamicas en el amor la vida, perdidas y el dolor",
+  "fecha_lanzamiento": "2022-11-12",
+  "foto_album": "img/TS04.png",
+  "nombre": "Red Taylors version",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "All Too Well",
+      "duracion": [10,13],
+      "reproducciones": 78967983
+    },{
+      "nombre": "Sad Beautiful Tragic",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "The Lucky One",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "I bet you think about me",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Forever Winter",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Nothing New",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Message in a bottle",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1005,
+  "descripcion": "El quinto album de la artista y la obra que revolucionó el pop, aquí sucede el famoso cambio de genero musical en las canciones de Taylor Swift",
+  "fecha_lanzamiento": "2014-10-27",
+  "foto_album": "img/TS05.png",
+  "nombre": "1989",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "Welcome to New York",
+      "duracion": [10,13],
+      "reproducciones": 78967983
+    },{
+      "nombre": "Blank Space",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "Bad Blood",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "Shake it off",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Clean",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "I know places",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Wildest dreams",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1006,
+  "descripcion": "El sexto album de la artista y el favorito de la creadora de esta aplicacion y la gran vuelta de Taylor Swift a la industria musical tras el gran escandalo de 2016, hablando por una parte de como este evento le ha afectado en su vida privada",
+  "fecha_lanzamiento": "2017-11-10",
+  "foto_album": "img/TS06.png",
+  "nombre": "Reputation",
+  "id_artista": 10,
+  "reproducciones": 13000000,
+  "valoracion": 99999,
+  "canciones": [
+    {
+      "nombre": "Look What you made me do",
+      "duracion": [10,13],
+      "reproducciones": 78967983
+    },{
+      "nombre": "Dont Blame me",
+      "duracion": [2,53],
+      "reproducciones": 102158210
+    },{
+      "nombre": "I did something bad",
+      "duracion": [3,23],
+      "reproducciones": 144732697
+    },{
+      "nombre": "Delicate",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Clean",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Gorgeus",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Dancing With Our Hands Tied",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "Dress",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "This is why we cant have nice things",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    },{
+      "nombre": "New years day",
+      "duracion": [4,2],
+      "reproducciones": 68054083
+    }
+  ]
+
+},{
+  "id_album": 1101,
+  "descripcion": "Este album es autogenerado ya que el se rumore que sacara su primera cancion en estas navidades",
+  "fecha_lanzamiento": "2022-12-30",
+  "foto_album": "img/VR01.png",
+  "nombre": "Tarde para amar",
+  "id_artista": 11,
+  "reproducciones": 0,
+  "valoracion": 11,
+  "canciones": [
+    {
+      "nombre": "Tarde para amar",
+      "duracion": [0,0],
+      "reproducciones": 0
+    }
+  ]
+
+}
+
+]
