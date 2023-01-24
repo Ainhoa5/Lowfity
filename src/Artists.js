@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, Image, TouchableOpacity, FlatList, Button } from 'react-native';
+import { View, Text, Image, TouchableOpacity, FlatList, Linking } from 'react-native';
+import { NavigationContainer, useNavigation } from '@react-navigation/native';
+
+
 
 import artistasJson from './json/artistas.json';
 
@@ -17,6 +20,7 @@ function Artists() {
     
   }
 
+  const navigation = useNavigation()
   return (
     <><View>
       <Text style={styles.title}>Artists.</Text>
@@ -26,8 +30,8 @@ function Artists() {
         data={artists}
         keyExtractor={(item) => item.id.toString()}
         renderItem={({ item }) => (
-
-          <TouchableOpacity onPress={() => handlePress(item.id)}>
+          
+          <TouchableOpacity onPress={() => navigation.navigate('Albums', { artistId: item.id })}>
             <View style={[styles.artistContainer, selectedArtistId === item.id && styles.selectedArtistContainer]}>
 
               {/* image not showing */}
@@ -37,22 +41,11 @@ function Artists() {
               <Text style={styles.artistInfo}>Followers: {item.seguidores}</Text>
               <Text>{item.foto}</Text>
               <View style={styles.buttonContainer}>
-
-              {item.redes_sociales.map((link, index) => (
-                <TouchableOpacity key={index} onPress={() => Linking.openURL(link)} style={styles.button} >
-                  <Text style={styles.text}>{link}</Text>
-                </TouchableOpacity>
-              ))}
-                {/* <TouchableOpacity style={[styles.button]} onPress={() => {socialMediaLinks.map(link => Linking.openURL(link));}}>
-                  <Text style={styles.text}>Instagram</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={[styles.button]} onPress={() => {Linking.openURL(socialMediaLinks[1])}}>
-                 <Text style={styles.text}>Spotify</Text> 
-                </TouchableOpacity>
-                <TouchableOpacity style={[styles.button]} onPress={() => {Linking.openURL(socialMediaLinks[2])}}>
-                  <Text style={styles.text}>Youtube</Text>
-                </TouchableOpacity> */}
-                
+                {item.redes_sociales.map((link, index) => (
+                  <TouchableOpacity key={index} onPress={() => Linking.openURL(link.url)} style={styles.button}>
+                    <Text>{link.nombre}</Text>
+                  </TouchableOpacity>
+                ))}
               </View>
             </View>
           </TouchableOpacity>
