@@ -7,7 +7,7 @@ function Album({ route }) {
 
   useEffect(() => {
     const { artistId } = route.params;
-    const filteredAlbums = albumData.filter((album) => album.id_artista === artistId);
+    const filteredAlbums = albumsJson.filter((album) => album.id_artista === artistId);
     setAlbums(filteredAlbums);
   }, []);
 
@@ -17,7 +17,7 @@ function Album({ route }) {
       keyExtractor={(item) => item.id_album.toString()}
       renderItem={({ item }) => (
         <View style={styles.albumContainer}>
-          <Image style={styles.albumImage} source={{ uri: `${item.foto_album}` }} />
+          {/* <Image style={styles.albumImage} source={{ uri: `${item.foto_album}` }} /> */}
           <Text style={styles.albumName}>{item.nombre_album}</Text>
           <Text style={styles.albumInfo}>Release Date: {item.fecha_lanzamiento}</Text>
           <Text style={styles.albumInfo}>{item.descripcion}</Text>
