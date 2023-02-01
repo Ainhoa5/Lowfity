@@ -8,9 +8,9 @@ const Stack = createStackNavigator();
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen name="Artists" component={ArtistsScreen} options={{ title: 'Artists' }} />
-        <Stack.Screen name="Albums" component={AlbumsScreen} options={{ title: 'Albums' }} />
+      <Stack.Navigator screenOptions={{headerShown: false}}>
+        <Stack.Screen name="Artists" component={ArtistsScreen} />
+        <Stack.Screen name="Albums" component={AlbumsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
