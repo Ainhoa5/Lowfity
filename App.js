@@ -1,5 +1,5 @@
-import ArtistsScreen from './src/Artists';
-import AlbumsScreen from './src/Album';
+import ArtistsScreen from './Screens/Artists';
+import AlbumsScreen from './Screens/Album';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
@@ -15,6 +15,7 @@ export default function App() {
     </NavigationContainer>
   );
 }
+
 
 
 
