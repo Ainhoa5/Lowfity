@@ -1,39 +1,37 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, TouchableOpacity } from 'react-native';
-import { firestore } from '../config';
+import { View, Text, FlatList, Image } from 'react-native';
+import firebaseConfig from '../config';
+import { useNavigation, useRoute } from '@react-navigation/native';
 
-const Album = ({ navigation, route }) => {
+const Album = () => {
   const [albums, setAlbums] = useState([]);
+  const route = useRoute();
+  const { artistId } = route.params;
 
   useEffect(() => {
-    const id_artista = route.params.id_artista;
-    const albumsRef = firestore.db.collection('Albumes');
-    const unsubscribe = albumsRef
-      .where('id_artista', '==', id_artista)
-      .onSnapshot(snapshot => {
-        const updatedAlbums = snapshot.docs.map(doc => ({
-          ...doc.data(),
-          id: doc.id,
-        }));
-        setAlbums(updatedAlbums);
-      });
-    return () => {
-      unsubscribe();
+    const fetchData = async () => {
+      const id_artista = artistId;
+      const albumData = await firebaseConfig.fetchAlbumsByArtistId(id_artista);
+      setAlbums(albumData);
     };
-  }, [route.params.id_artista]);
+    fetchData();
+  }, []);
 
   return (
-    <View>
-      {albums.map(album => (
-        <View key={album.id}>
-          <Text>{album.nombre_album}</Text>
-          <Text>{album.descripcion}</Text>
-          <Text>{album.fecha_lanzamiento}</Text>
+    <FlatList
+      data={albums}
+      keyExtractor={item => item.id_album.toString()}
+      renderItem={({ item }) => (
+        <View>
+          <Text>{item.nombre}</Text>
+          <Text>{item.descripcion}</Text>
+          <Text>{item.fecha_lanzamiento}</Text>
         </View>
-      ))}
-    </View>
+      )}
+    />
   );
 };
 
 export default Album;
+
 
