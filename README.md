@@ -1,7 +1,7 @@
-#React Native App README
+# React Native App README
 This is a guide to set up a React Native App with the necessary modules.
 
-##Modules to install
+## Modules to install
 Firebase: To install firebase, run the following command in your terminal:
 `expo install firebase`
 
@@ -17,5 +17,5 @@ React Native Screens and React Native Safe Area Context: To install React Native
 React Navigation Stack: To install React Navigation Stack, run the following command in your terminal:
 `npm install @react-navigation/stack`
 
-##Summary
+## Summary
 With these modules installed, your React Native App will have all the necessary components to start building your app.
