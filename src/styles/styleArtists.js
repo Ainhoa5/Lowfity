@@ -22,11 +22,13 @@ export const styles = StyleSheet.create({
     padding: 20
   },
   text:{
-    color: 'black'
+    color: 'black',
+    fontSize: 20,
   },
   button: {
-    padding:20,
-    width: 10,
+    justifyContent: 'center',
+    width: 300,
+    flexDirection: 'row',
     alignItems: 'center',
     height: 60,
     marginVertical:5,
@@ -36,7 +38,6 @@ export const styles = StyleSheet.create({
     backgroundColor: '#FFC300'
   },
   buttonConcert: {
-    width: 365,
   },
   artistContainer: {
     alignItems: 'center',

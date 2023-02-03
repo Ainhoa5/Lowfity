@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, FlatList, Linking, TouchableOpacity } from 'react-native';
+import { View, Text, FlatList, Linking, TouchableOpacity, Image } from 'react-native';
 import { fetchArtists } from '../config';
 import { useNavigation } from '@react-navigation/native';
 import { styles } from '../src/styles/styleArtists';
+import { SocialIcon, Icon } from 'react-native-elements';
+
+
 
 const Artists = () => {
   const [artists, setArtists] = useState([]);
@@ -16,8 +19,8 @@ const Artists = () => {
     };
     fetchData();
   }, []);
-
-
+  
+  
   return (
     <><View style={styles.header}>
       <Text style={styles.headerTitle}>Artists.</Text>
@@ -35,13 +38,14 @@ const Artists = () => {
 
               <View style={styles.buttonContainer}>
                 {item.redes_sociales && item.redes_sociales.map(redSocial => (
-                  <TouchableOpacity key={redSocial.nombre} onPress={() => Linking.openURL(redSocial.url)} style={styles.button}>
-                    <Text style={styles.text}>{redSocial.nombre}</Text>
+                  <TouchableOpacity key={redSocial.nombre} onPress={() => Linking.openURL(redSocial.url)} >
+                    <SocialIcon type={redSocial.nombre.toLowerCase()} size={24} style={{backgroundColor: '#333333', borderRadius: 50}}/>  
                   </TouchableOpacity>
                 ))}
               </View>
-              <TouchableOpacity onPress={() => navigation.navigate('Concerts', { artistId: item.id })} style={[styles.button, styles.buttonConcert]}>
-                    <Text style={styles.text}>Concerts</Text>
+              <TouchableOpacity onPress={() => navigation.navigate('Concerts', { artistId: item.id })} style={styles.button}>
+                <Icon name={"place"} type='material' size={40} color='#0099ff' />
+                <Text style={styles.text}>Concerts</Text>
               </TouchableOpacity>
             </View>
           </TouchableOpacity>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Text, View } from 'react-native';
+import { Text, View, Image } from 'react-native';
 import { fetchConcertByArtistId } from '../config';
 import { useRoute } from '@react-navigation/native';
 
@@ -19,6 +19,8 @@ const ConcertInfo = () => {
 
   return (
     <View>
+    
+      <Image source={require('../src/img/location.png')} style={{height: 200, width: 200}}/>
       {concerts.map(concert => (
         <View key={concert.idconcierto}>
           <Text>Artist: {concert.nombre}</Text>
