@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, FlatList, Image } from 'react-native';
-import firebaseConfig from '../config';
+import { fetchAlbumsByArtistId } from '../config';
 import { useRoute } from '@react-navigation/native';
 import { styles } from '../src/styles/styleAlbums';
 
@@ -11,7 +11,7 @@ const Album = () => {
   useEffect(() => {
     const fetchData = async () => {
       const id_artista = artistId;
-      const albumData = await firebaseConfig.fetchAlbumsByArtistId(id_artista);
+      const albumData = await fetchAlbumsByArtistId(id_artista);
       setAlbums(albumData);
     };
     fetchData();
@@ -25,14 +25,13 @@ const Album = () => {
 
       <FlatList
         data={albums}
-        keyExtractor={item => item.id_album.toString()}
+        keyExtractor={item => item.id_album}
         renderItem={({ item }) => (
           <View style={[styles.albumContainer]}>
             <Text style={styles.albumName}>{item.nombre}</Text>
             <Text style={styles.albumInfo}>{item.descripcion}</Text>
           </View>
         )} />
-
     </>
   );
 };

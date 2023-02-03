@@ -22,18 +22,21 @@ export const styles = StyleSheet.create({
     padding: 20
   },
   text:{
-    color: 'white'
+    color: 'black'
   },
   button: {
     padding:20,
-    width: 110,
+    width: 10,
     alignItems: 'center',
     height: 60,
     marginVertical:5,
     textColor: 'white',
     marginHorizontal:10,
     borderRadius: 10,
-    backgroundColor: '#6A6A6A'
+    backgroundColor: '#FFC300'
+  },
+  buttonConcert: {
+    width: 365,
   },
   artistContainer: {
     alignItems: 'center',

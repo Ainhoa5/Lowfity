@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, FlatList, Linking, TouchableOpacity } from 'react-native';
-import firebaseConfig from '../config';
+import { fetchArtists } from '../config';
 import { useNavigation } from '@react-navigation/native';
 import { styles } from '../src/styles/styleArtists';
 
@@ -10,17 +10,11 @@ const Artists = () => {
   const navigation = useNavigation()
 
   useEffect(() => {
-    firebaseConfig.db.collection('Artistas').get()
-      .then(querySnapshot => {
-        let artists = [];
-        querySnapshot.forEach(doc => {
-          artists.push({ id: doc.id, ...doc.data() });
-        });
-        setArtists(artists);
-      })
-      .catch(error => {
-        console.error(error);
-      });
+    const fetchData = async () => {
+      const artists = await fetchArtists();
+      setArtists(artists);
+    };
+    fetchData();
   }, []);
 
 
@@ -46,9 +40,14 @@ const Artists = () => {
                   </TouchableOpacity>
                 ))}
               </View>
+              <TouchableOpacity onPress={() => navigation.navigate('Concerts', { artistId: item.id })} style={[styles.button, styles.buttonConcert]}>
+                    <Text style={styles.text}>Concerts</Text>
+              </TouchableOpacity>
             </View>
           </TouchableOpacity>
-        )} /></>
+        )} />
+        
+        </>
   );
 };
 

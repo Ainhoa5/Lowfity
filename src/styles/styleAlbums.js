@@ -12,6 +12,18 @@ export const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 40,
   },
+  headerConcert: {
+    backgroundColor: '#333',
+    alignItems: 'center',
+    justifyContent: 'center',
+    position: 'relative',
+    padding: 20,
+    paddingTop: 50
+  },
+  headerTitleConcert: {
+    color: '#fff',
+    fontSize: 40,
+  },
 
   albumContainer: {
     marginVertical: 10,
