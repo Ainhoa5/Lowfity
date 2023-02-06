@@ -1,6 +1,40 @@
 # React Native App README
 This is a guide to set up a React Native App with the necessary modules.
 
+## Set up react native
+### Install Node.js and npm (Node Package Manager)
+Go to the official Node.js website and download the latest version
+`https://nodejs.org/en/`
+
+Follow the installation steps
+Check the installation by running the following command in your terminal:
+```javascript
+node -v
+```
+```javascript
+npm -v
+```
+
+### Install Expo CLI
+Run the following command in your terminal:
+```javascript
+npm install -g expo-cli
+```
+
+### Clone the project
+Run the following command in your terminal:
+```javascript
+git clone https://github.com/Ainhoa5/Lowfity.git
+```
+
+### Navigate to the project directory
+Run the following command in your terminal:
+```javascript
+expo init my-new-project
+```
+
+
+
 ## Modules to install
 ### Database Modules
 Firebase: To install firebase, run the following command in your terminal:
