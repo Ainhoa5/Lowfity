@@ -3,8 +3,8 @@ This is a guide to set up a React Native App with the necessary modules.
 
 ## Set up react native
 ### Install Node.js and npm (Node Package Manager)
-Go to the official Node.js website and download the latest version
-[Node.js website](https://nodejs.org/en/)
+Go to the official [Node.js website](https://nodejs.org/en/) and download the latest version
+
 
 Follow the installation steps
 Check the installation by running the following command in your terminal:
