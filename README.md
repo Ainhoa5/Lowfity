@@ -30,7 +30,7 @@ git clone https://github.com/Ainhoa5/Lowfity.git
 ### Navigate to the project directory
 Run the following command in your terminal:
 ```javascript
-expo init my-new-project
+cd Lowfity
 ```
 
 
@@ -67,6 +67,12 @@ npm install react-native-vector-icons
 Elements: To install React Native elements, run the following command in your terminal:
 ```javascript
 npm install react-native-elements
+```
+
+### Map
+Map: To install React Native maps, run the following command in your terminal:
+```javascript
+npm install react-native-maps
 ```
 
 ## Summary
